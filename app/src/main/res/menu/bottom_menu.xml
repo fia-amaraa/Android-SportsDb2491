@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/nav_last"
+        android:icon="@drawable/ic_baseline_emoji_events_24"
+        android:title="Last Events"/>
+
+    <item android:id="@+id/nav_next"
+        android:icon="@drawable/ic_baseline_event_24"
+        android:title="Next Events"/>
+
+    <item android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorite"/>
+
+</menu>
